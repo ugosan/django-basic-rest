@@ -1,4 +1,4 @@
-Django==1.8.4
+Django==1.11.29
 django-appconf==1.0.1
 django-compressor==1.5
 django-cors-headers==1.1.0
